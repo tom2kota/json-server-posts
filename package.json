@@ -1,24 +1,11 @@
 {
   "name": "stream-server",
   "version": "1.0.0",
-  "description": "JSON server for stream-client React Redux App",
+  "description": "JSON server with Posts & TODOs",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tom2kota/stream-server.git"
-  },
-  "keywords": [
-    "json-server"
-  ],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tom2kota/stream-server/issues"
-  },
-  "homepage": "https://github.com/tom2kota/stream-server#readme",
   "dependencies": {
     "json-server": "^0.16.1"
   }
