@@ -1,5 +1,5 @@
 {
-  "name": "stream-server",
+  "name": "json-server",
   "version": "1.0.0",
   "description": "JSON server with Posts & TODOs",
   "main": "server.js",
